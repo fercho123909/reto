@@ -28,6 +28,12 @@ En un arbol binario de busqueda (ABB), un valor menor que el nodo actual se busc
 
 ![Diagrama del ABB resultante](docs/arbol-abb.svg)
 
+### Evidencia del trabajo a mano
+
+Foto original del arbol dibujado a mano para el reto:
+
+![Evidencia manuscrita del ABB](docs/evidencia-trabajo-a-mano.png)
+
 ## 2. Recorridos
 
 Los recorridos se obtienen visitando cada nodo en un orden distinto:
