@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title description">
+  <title id="title">Arbol binario de busqueda resultante</title>
+  <desc id="description">Arbol con raiz 45; 25 y 70 como hijos; y los valores restantes ubicados por las reglas de un ABB.</desc>
+  <rect width="900" height="520" fill="#f5f2e9"/>
+  <path d="M450 84 L250 190 M450 84 L650 190 M250 218 L150 330 M250 218 L350 330 M650 218 L550 330 M650 218 L750 330 M350 358 L300 448 M550 358 L600 448" fill="none" stroke="#52666b" stroke-width="4" stroke-linecap="round"/>
+  <g fill="#fffdf7" stroke="#d45c35" stroke-width="4">
+    <circle cx="450" cy="70" r="38"/>
+    <circle cx="250" cy="205" r="38"/>
+    <circle cx="650" cy="205" r="38"/>
+    <circle cx="150" cy="345" r="38"/>
+    <circle cx="350" cy="345" r="38"/>
+    <circle cx="550" cy="345" r="38"/>
+    <circle cx="750" cy="345" r="38"/>
+    <circle cx="300" cy="465" r="38"/>
+    <circle cx="600" cy="465" r="38"/>
+  </g>
+  <g fill="#21343a" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" text-anchor="middle" dominant-baseline="central">
+    <text x="450" y="70">45</text>
+    <text x="250" y="205">25</text>
+    <text x="650" y="205">70</text>
+    <text x="150" y="345">10</text>
+    <text x="350" y="345">30</text>
+    <text x="550" y="345">60</text>
+    <text x="750" y="345">90</text>
+    <text x="300" y="465">27</text>
+    <text x="600" y="465">65</text>
+  </g>
+  <text x="450" y="508" fill="#52666b" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Insercion: 45, 25, 70, 10, 30, 60, 90, 27, 65</text>
+</svg>
